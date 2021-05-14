@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<title>My first programmingtest</title>
+
+<head>
+<link rel="stylesheet" type="text/css" href="/css/styles.css">      
+</head>
+
+<ul  class="b">
+		<li class="c"><a href="/content/Search.html" title="go to searche page">Search...</a></li>
+        <li class="b"><a href="Moheax.nl" title="go to mainpage">Home</a></li>
+	</ul>
+
+</head>
+
+<h1></h1>
+</head
+
+<h2>What is an </h2>
+<p>
+</p>
+    <form action="/content/contact.html" method="Get">
+        <div>
+            <label for="say">Hello</label>
+            <input name="firstname"
+        </div>
+    </form>
+	<footer>
+	<ul  class="b">
+		<li class="b"><a href="moheax.nl" title="go to mainpage">Home</a></li>
+		<li class="b"><a href="#news">News</a></li>
+		<li class="b"><a href="/content/contact.html">Contact</a></li>
+		<li class="b"><a href="#about">About</a></li>
+	</ul>
+</footer>
+
+</body>
+</HTML>

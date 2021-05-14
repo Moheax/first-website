@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<title>Moheax</title>
+<head>
+<link rel="stylesheet" type="text/css" href="/css/styles.css">      
+</head>
+<ul  class="b">
+		<li class="c"><a href="/css/Search.html" title="go to searche page">Search...</a></li>
+        <li class="b"><a href="http://maxvl.cmshost.nl" title="go to mainpage">Home</a></li>
+	</ul>
+
+</head>
+
+<h1>Avocado</h1>
+</head>
+
+<h2>What is an Avocado</h2>
+<p>The 
+<a href="/content/avocado.html" title="go to avocado page"> avocado</a>
+( Persea americana)
+is a tree, long thought to have originated in South Central Mexico, classified as a member of the flowering plant family Lauraceae.<br> Recent archaeological research produced evidence that the 
+<a href="/content/avocado.html" title="go to avocado page"> avocado</a>
+was present in Peru as long as 8,000 to 15,000 years ago.<br>
+<a href="/content/avocado.html" title="go to avocado page"> Avocado</a>
+(also alligator pear) refers to the tree's fruit, which is botanically a large berry containing a single large seed.<br>
+
+<a href="/content/avocado.html" title="go to avocado page"> Avocados</a>
+are commercially valuable and are cultivated in tropical and Mediterranean climates throughout the world.<br> They have a green-skinned, fleshy body that may be pear-shaped, egg-shaped, or spherical.<br> Commercially, they ripen after harvesting.<br> 
+<a href="/content/avocado.html" title="go to avocado page"> Avocado</a>
+trees are partially self-pollinating and are often propagated through grafting to maintain a predictable quality and quantity of the fruit.<br>
+</p>
+	<footer>
+	<ul  class="b">
+		<li class="b"><a href="Moheax.nl" title="go to mainpage">Home</a></li>
+		<li class="b"><a href="#news">News</a></li>
+		<li class="b"><a href="/content/contact.html">Contact</a></li>
+		<li class="b"><a href="/content/mywebsite.html">About</a></li>
+	</ul>
+</footer>
+
+</body>
+</HTML>

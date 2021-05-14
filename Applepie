@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<title>Moheax</title>
+<head>
+<link rel="stylesheet" type="text/css" href="/css/styles.css">      
+</head>
+
+<ul  class="b">
+		<li class="c"><a href="/content/Search.html" title="go to searche page">Search...</a></li>
+	   <li class="b"><a href="http://maxvl.cmshost.nl" title="go to mainpage">Home</a></li>
+</ul>
+      
+
+<h1> Apple pie</h1>
+</head>
+
+<h2>What is an  Apple pie</h2>
+<p>An 
+<a href="/content/ApplePie.html" title="go to apple pie page"> apple pie</a>
+is a pie or a tart, in which the principal filling ingredient is 
+<a href="/content/apple.html" title="go to apple page"> apple</a>
+.<br> It is, on occasion, served with whipped cream or ice cream on top, or alongside cheddar cheese.<br> The pastry is generally used top-and-bottom, making it a double-crust pie; the upper crust may be a circular or a pastry lattice woven of crosswise strips.<br> Depending on the baker's preference, the bottom of the double-crust may be baked first (before baking the whole pie) to prevent the bottom from getting soggy.<br> Exceptions are deep-dish 
+<a href="/content/ApplePie.html" title="go to apple pie page"> apple pie</a>
+, with a top crust only, and open-face Tarte Tatin.<br> The 
+<a href="/content/ApplePie.html" title="go to apple pie page"> apple pie</a>
+is one of the United State's signature comfort foods.<br>
+</p>
+	<footer>
+	<ul  class="b">
+		<li class="b"><a href="Moheax.nl" title="go to mainpage">Home</a></li>
+		<li class="b"><a href="#news">News</a></li>
+		<li class="b"><a href="/content/contact.html">Contact</a></li>
+		<li class="b"><a href="/content/mywebsite.html">About</a></li>
+	</ul>
+</footer>
+
+</body>
+</HTML>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<title>Moheax</title>
+
+<head>
+<link rel="stylesheet" type="text/css" href="/css/styles.css">      
+</head>
+
+<ul  class="b">
+		<li class="c"><a href="/content/Search.html" title="go to searche page">Search...</a></li>
+        <li class="b"><a href="http://maxvl.cmshost.nl" title="go to mainpage">Home</a></li>
+	</ul>
+
+</head>
+
+<h1>Brussels Sprout</h1>
+</head
+
+<h2>What is an sprout </h2>
+<p>
+The 
+<a href="/content/sprout.html" title="go to the brussels sprout page"> Brussels sprout</a>
+is a member of the Gemmifera Group of cabbages (Brassica oleracea), grown for its edible buds.
+
+The leafy green vegetables are typically 2.5–4 cm (0.98–1.6 in) in diameter and look like miniature cabbages. The 
+<a href="/content/sprout.html" title="go to the brussels sprout page"> Brussels sprout</a>
+has long been popular in Brussels, Belgium, and may have originated and gained its name there.
+</p>
+	<footer>
+	<ul  class="b">
+		<li class="b"><a href="Moheax.nl" title="go to mainpage">Home</a></li>
+		<li class="b"><a href="#news">News</a></li>
+		<li class="b"><a href="/content/contact.html">Contact</a></li>
+		<li class="b"><a href="/content/mywebsite.html">About</a></li>
+	</ul>
+</footer>
+
+</body>
+</HTML>

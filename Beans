@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<title>Moheax</title>
+
+<head>
+<link rel="stylesheet" type="text/css" href="/css/styles.css">      
+</head>
+
+<ul  class="b">
+		<li class="c"><a href="/content/Search.html" title="go to searche page">Search...</a></li>
+        <li class="b"><a href="http://maxvl.cmshost.nl" title="go to mainpage">Home</a></li>
+	</ul>
+
+</head>
+
+<h1> Beans</h1>
+</head>
+
+<h2>What are Beans</h2>
+<p>A 
+<a href="/content/beans.html" title="go to the beans page"> bean </a>
+is a seed of one of several genera of the flowering plant family Fabaceae, which are used for human or animal food.
+</p>
+	<footer>
+	<ul  class="b">
+		<li class="b"><a href="Moheax.nl" title="go to mainpage">Home</a></li>
+		<li class="b"><a href="#news">News</a></li>
+		<li class="b"><a href="/content/contact.html">Contact</a></li>
+		<li class="b"><a href="/content/mywebsite.html">About</a></li>
+	</ul>
+</footer>
+
+</body>
+</HTML>

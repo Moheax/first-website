@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<title>Moheax</title>
+<head>
+<link rel="stylesheet" type="text/css" href="/css/styles.css">      
+</head>
+
+<ul  class="b">
+		<li class="c"><a href="/content/Search.html" title="go to searche page">Search...</a></li>
+        <li class="b"><a href="http://maxvl.cmshost.nl" title="go to Mainpage">Home</a></li>
+	</ul>
+
+</head>
+
+<h1>Apples</h1>
+</head>
+
+<h2>What is an Apple</h2>
+<p>The 
+<a href="/content/apple.html" title="go to apple page"> apple</a>
+    tree (Malus pumila, commonly and erroneously called Malus domestica) is a deciduous tree in the rose family best known for its sweet,
+pomaceous fruit, the 
+<a href="/content/apple.html" title="go to apple page"> apple</a>
+.<br> It is cultivated worldwide as a fruit tree, and is the most widely grown species in the genus Malus.<br> The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today.<br> 
+<a href="/content/apple.html" title="go to apple page"> Apples</a> 
+have been grown for thousands of years in Asia and Europe, and were brought to North America by European colonists.<br> 
+<a href="/content/apple.html" title="go to apple page"> Apples</a>
+have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.<br>
+<br>
+<a href="/content/apple.html" title="go to apple page"> Apple</a>
+trees are large if grown from seed.<br> Generally 
+<a href="/content/apple.html" title="go to apple page"> apple</a> 
+cultivars are propagated by grafting onto rootstocks, which control the size of the resulting tree.<br> There are more than 7,500 known cultivars of 
+<a href="/content/apple.html" title="go to apple page"> apples</a>
+, resulting in a range of desired characteristics.<br> Different cultivars are bred for various tastes and uses, including cooking, eating raw and cider production.<br> Trees and fruit are prone to a number of fungal, bacterial and pest problems, which can be controlled by a number of organic and non-organic means.<br> In 2010, the fruit's genome was sequenced as part of research on disease control and selective breeding in 
+<a href="/content/apple.html" title="go to apple page"> apple</a> 
+production.<br>
+Can be used in <a href="/content/ApplePie.html" title="go to apple pie page"> Apple pie</a>
+
+</p>
+	<footer>
+	<ul  class="b">
+		<li class="b"><a href="Moheax.nl" title="go to mainpage">Home</a></li>
+		<li class="b"><a href="#news">News</a></li>
+		<li class="b"><a href="/content/contact.html">Contact</a></li>
+		<li class="b"><a href="/content/mywebsite.html">About</a></li>
+	</ul>
+</footer>
+
+</body>
+</HTML>

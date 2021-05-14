@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<title>Moheax</title>
+<style>
+body {
+    background-color: darkgreen;
+}
+
+h1 {
+    color: black;
+    font-family: Comic Sans MS;
+    font-size: 60px; 
+    text-align: center;
+h2  {
+    color: black;
+    font-family: Comic Sans MS
+    Font-size: 50px;
+}
+  
+p {
+    font-family: Comic Sans MS;
+    font-size: 45px; 
+}
+ul.c {list-style-position:outside;
+
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color: #333333;
+}
+
+	li.c{
+		float: right;
+}
+
+	li.c a {
+		display: block;
+		color: white;
+		text-align: right;
+		padding: 16px;
+		text-decoration: none;
+        font-size: 20px;
+}
+
+	li.c a:hover {
+		background-color: #111111;
+}
+ul.b {list-style-position:outside;
+
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color: #333333;
+        font-size: 25px;
+}
+
+	li.b{
+		float: left;
+}
+
+	li.b a {
+		display: block;
+		color: white;
+		text-align: center;
+		padding: 16px;
+		text-decoration: none;
+        font-size: 20px;
+}
+
+	li.b a:hover {
+		background-color: #111111;
+}
+
+</style>
+
+<ul class="b">
+		<li class="c"><a href="/content/Search.html" title="go to searche page">Search...</a></li>
+        <li class="b"><a href="http://maxvl.cmshost.nl" title="go to mainpage">Home</a></li>
+	</ul>
+</head>
+
+<h1>My first Programming TEST</h1>
+<h2>Stap 1 van deze pagina.</h2>
+<p>Wat heb ik gedaan om deze pagina te maken.<br>Eerst begon ik meet een HTML tittle en body te maken.<br>En mijn plan was om alles in HTML te maken.</p>
+<h2>Stap 2 van deze pagina.</h2>
+<p>Om in plaats van een saaie witte achtergrond te hebben.<br>Begon ik CSS te grbruiken om wat kleur en wat mooiere text er in te maken.</p>
+<h2>Stap 3 De verandering van programma.</h2>
+<p>ik moest een regel nummering hebben om makkelijker fouten tekunne vinden.<br>Daardoor begon ik te zoeken naar een ander soort notepad zo kwam ik op PRNotepad maar dat was niet helemaal mijn stijl.<br>dus ik ben verder gaan zoeken en kwan ik uiteindelijk uit op NotePad++.<br> Dat is het programma waar ik nu verder in werk.</p>
+<p>
+Ik ben vandaag overgestap naar brackets waardoor ik beter fouten kon vinden ook ben ik meerede tabs geen maken om mijn site te vergroten, dat kon ook heel makkelijk ik 
+
+<footer>
+	<style>
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color: #333333;
+}
+
+	li {
+		float: left;
+}
+
+	li a {
+		display: block;
+		color: white;
+		text-align: center;
+		padding: 16px;
+		text-decoration: none;
+}
+
+	li a:hover {
+		background-color: #111111;
+}
+	</style>
+</head>
+<body>
+	
+	<ul>
+		<li><a href="http://maxvl.cmshost.nl">Home</a></li>
+		<li><a href="#news">News</a></li>
+		<li><a href="#contact">Contact</a></li>
+		<li><a href="#about">About</a></li>
+	</ul>
+</footer>
+
+</body>
+</html>p

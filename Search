@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+    <title>Moheax</title>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+    body {
+    background-color: #2f2f2f;
+}
+* {
+  box-sizing: border-box;
+}
+    h2 { text-align: center;
+    color: white;
+    }
+
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 22px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd; 
+  margin-bottom: 12px;
+}
+
+#myUL {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#myUL li a {
+  border: 0px solid #ddd;
+  margin-top: 0px; 
+  background-color: #333333;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+  display: block
+}
+
+#myUL li a:hover:not(.header) {
+  background-color: #3f3f3f;
+}
+</style>
+</head>
+<body>
+
+<h2>search my wiki</h2>
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search.." title="Tsearch my wiki">
+
+<ul id="myUL">
+    <li>
+    <a href="http://maxvl.cmshost.nl">Mainpage</a></li>
+     <li>
+    <a href="/content/mywebsite.html">Programming</a></li>
+     <li>
+    <a href="/content/foodlist.html">food list</a></li>
+    <li>
+    <a href="/content/apple.html">apple</a>
+    </li>
+    <li>
+    <a href="/content/ApplePie.html">applepie</a></li>
+    <li>
+    <a href="/content/avocado.html">avocado</a>
+    </li>
+    <li>
+    <a href="/content/Bacon.html">Bacon</a>
+    </li>
+    <li>
+    <a href="/content/banana.html">banana</a>
+    </li>
+    <li>
+    <a href="/content/beans.html">beans</a>
+    </li>
+    <li>
+    <a href="/content/beef.html">beef</a>
+    </li>
+    <li>
+    <a href="/content/berries.html">berries</a>
+    </li>
+    <li>
+    <a href="/content/bread.html">Bread</a>
+    </li>
+    <li>
+    <a href="/content/Broccoli.html">Broccoli</a></li>
+    <li>
+    <a href="/content/sprout.html">sprout</a>
+    </li>
+    <li>   
+    <a href="/content/Butter.html">Butter</a>
+    </li>
+    <li>
+    <a href="/content/cabbage.html">cabbage</a>
+    </li>
+    <li>
+    <a href="/content/cacao.html">cacao</a>
+    </li>
+    <li>
+    <a href="/content/cake.html">cake</a>
+    </li>
+    <li>
+     <a href="/content/carrot.html">carrot</a>
+    </li>
+    <li>
+    <a href="/content/cashew.html">cashew</a>
+    </li>
+    <li>
+    <a href="/content/celery.html">celery</a>
+    </li>
+    <li>
+    <a href="/content/cheddar.html">cheddar</a>
+    </li>
+    <li>
+    <a href="/content/cherries.html">cherries</a>
+    </li>
+    <li>
+    <a href="/content/chicken.html">chicken</a>
+    </li>
+    <li>
+    <a href="/content/chillipepper.html">chilli pepper</a>
+    </li>
+    <li>
+    <a href="/content/chocolate.html">chocolate</a>
+    </li>
+    <li>
+    <a href="/content/cinnamon.html">cinnamon</a>
+    </li>
+    <li>
+    <a href="/content/clam.html">clam</a>
+    </li>
+    <li>
+    <a href="/content/coconut.html">coconut</a>
+    </li>
+    <li>
+    <a href="/content/coffee.html">coffee</a>
+    </li>
+    <li>
+    <a href="/content/corn.html">corn</a>
+    </li>
+    <li>
+    <a href="/content/crabs.html">crabs</a>
+    </li>
+    <li>
+    <a href="/content/cucumber.html">cucumber</a>
+    </li>
+    <li>
+    <a href="/content/curry.html">curry</a>
+    </li>
+</ul>
+<script>
+    
+function myFunction() {
+    var input, filter, ul, li, a, i;
+    input = document.getElementById("myInput") ;
+    ul = document.getElementById("myUL");
+    li = ul.getElementsByTagName("li");
+    for (i = 0; i < li.length; i++) {
+        a = li[i].getElementsByTagName("a")[0];
+        if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+            li[i].style.display = "";
+        } else {
+            li[i].style.display = "none";
+
+        }
+    }
+}
+</script>
+
+</body>
+</html>
